@@ -1,30 +1,126 @@
-<h1 align="center">Hi 👋, I'm Sosuke</h1>
-<h3 align="center">A Japanese student at Uni in Aus</h3>
+# `> PATRIC.exe`
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nerattekyouryoku&label=Profile%20views&color=0e75b6&style=flat" alt="nerattekyouryoku" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nerattekyouryoku" alt="nerattekyouryoku" /></a> </p>
-
-- 🔭 I’m currently working on [Null](Null)
-
-- 🌱 I’m currently learning **Computer Networks, SQL, C++, OOP, Web Technology**
-
-- 👯 I’m looking to collaborate on [Null](Null)
-
-- 🤝 I’m looking for help with [Null](Null)
-
-- ⚡ Fun fact **I think I'm quick learner**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=PATRIC&fontSize=70&color=0:0f172a,50:0891b2,100:22c55e&stroke=22c55e&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=CYBERSECURITY%20%7C%20AI%20%7C%20SYSTEMS&descAlignY=65&descSize=16" width="100%" alt="Patric — Cybersecurity, AI and Systems"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <b>Building secure systems. Understanding how they work. Learning every day.</b>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nerattekyouryoku&show_icons=true&locale=en&layout=compact" alt="nerattekyouryoku" /></p>
+<p align="center">
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-Profile-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-0891b2?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Exploring-AI-7c3aed?style=for-the-badge&logo=openai&logoColor=white" alt="AI"/>
+  <img src="https://img.shields.io/badge/Consistency-Every%20Day-16a34a?style=for-the-badge&logo=githubactions&logoColor=white" alt="Daily learning"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nerattekyouryoku&show_icons=true&locale=en" alt="nerattekyouryoku" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nerattekyouryoku&" alt="nerattekyouryoku" /></p>
+## `01 / ABOUT ME`
 
+```text
+Name       : Patric
+Based in   : Wollongong, Australia
+Education  : Diploma of Information Technology → BCompSc
+Interests  : Cybersecurity, AI, Networking, Systems
+Mindset    : Learn → Build → Break → Understand → Improve
+Mission    : Become an engineer who can understand and secure
+             complex systems, then use AI to make them better.
+```
+
+I'm an IT student building my foundations in computer science, networking, and cybersecurity.
+
+I believe strong security engineers need more than tools. They need to understand programming, operating systems, networks, and the systems they are trying to protect.
+
+My current goal is to turn what I learn every day into practical knowledge, documented experiments, and real projects.
+
+## `02 / CURRENTLY LEARNING`
+
+| Area | Current focus |
+|---|---|
+| `Networking` | CCNA, TCP/IP, routing, switching, subnetting |
+| `Programming` | Python, C++, object-oriented programming |
+| `Cybersecurity` | Linux, web security, system security |
+| `Computer Science` | Data structures, algorithms, software design |
+| `AI` | Mathematical and programming foundations for future AI projects |
+
+### Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,linux,kali,git,github,vscode&theme=dark" alt="Python, C++, Linux, Kali Linux, Git, GitHub and VS Code"/>
+</p>
+
+*Currently building my foundations. More tools and technologies will be added as I gain hands-on experience.*
+
+## `03 / MY LEARNING SYSTEM`
+
+I don't want to just consume tutorials. I want to understand concepts, test them, and document what I discover.
+
+```text
+LEARN
+  ↓
+TAKE NOTES
+  ↓
+EXPERIMENT
+  ↓
+DOCUMENT THE RESULTS
+  ↓
+COMMIT TO GITHUB
+  ↓
+REPEAT
+```
+
+Every day, I aim to leave behind at least one useful piece of evidence that I learned something.
+
+**My rule: consistency first, complexity second.**
+
+## `04 / PROJECTS`
+
+| Project | Description | Status |
+|---|---|---|
+| `Daily Learning Log` | A searchable record of concepts, experiments, and lessons learned | In progress |
+| `Networking Lab` | Hands-on practice with TCP/IP, Linux networking, and client-server communication | Learning |
+| `Python Projects` | Small programs that apply programming fundamentals to practical problems | Building |
+| `Cybersecurity Lab` | Documented security experiments in authorized, isolated environments | Learning |
+| `AI × Security` | Future projects exploring how AI can help solve cybersecurity problems | Planned |
+
+> These are learning tracks, not claims of completed projects. Each will grow through documented work and practical experiments.
+
+## `05 / GITHUB ACTIVITY`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" height="165" alt="Most-used languages"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=0d1117&ring=22c55e&fire=06b6d4&currStreakLabel=22c55e&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="90%" alt="GitHub contribution streak"/>
+</p>
+
+*Statistics are generated by third-party services and may occasionally be unavailable.*
+
+## `06 / THE LONG-TERM MISSION`
+
+My long-term direction is to combine two fields:
+
+- **Cybersecurity** — understanding vulnerabilities, networks, operating systems, and secure system design.
+- **Artificial Intelligence** — understanding intelligent systems and learning how to build and apply them responsibly.
+
+I want to develop the fundamentals first, build real projects, and gradually work toward more advanced problems.
+
+The goal isn't to look like an expert today.
+
+**The goal is to become one through consistent work.**
+
+---
+
+<p align="center">
+  <code>while (learning) { build(); document(); improve(); }</code>
+</p>
+
+<p align="center">
+  <sub>One day at a time. One commit at a time.</sub>
+</p>

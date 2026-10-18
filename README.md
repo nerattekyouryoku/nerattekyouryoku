@@ -93,7 +93,7 @@ Every day, I aim to leave behind at least one useful piece of evidence that I le
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nerattekyouryoku&show_icons=true&hide_border=true&bg_color=0d1117&title_color=22c55e&icon_color=06b6d4&text_color=c9d1d9&rank_icon=github" height="165" alt="GitHub statistics"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" height="165" alt="Most-used languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nerattekyouryoku&layout=compact&hide_border=true&bg_color=0d1117&title_color=22c55e&text_color=c9d1d9" height="165" alt="Most-used languages"/>
 </p>
 
 <p align="center">

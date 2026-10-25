@@ -83,6 +83,7 @@ Every day, I aim to leave behind at least one useful piece of evidence that I le
 |---|---|---|
 | `Daily Learning Log` | A searchable record of concepts, experiments, and lessons learned | In progress |
 | `Networking Lab` | Hands-on practice with TCP/IP, Linux networking, and client-server communication | Learning |
+| `Network Intrusion Detection System` | Small programs that apply programming fundamentals to practical problems | Building |
 | `Python Projects` | Small programs that apply programming fundamentals to practical problems | Building |
 | `Cybersecurity Lab` | Documented security experiments in authorized, isolated environments | Learning |
 | `AI × Security` | Future projects exploring how AI can help solve cybersecurity problems | Planned |
